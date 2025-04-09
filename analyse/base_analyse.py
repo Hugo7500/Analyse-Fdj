@@ -121,6 +121,22 @@ def clustering_numeros(freq_boules):
 
 # --- Heatmaps uniquement pour boules ---
 def generer_heatmaps(df, boules_cols, chance_col, jeu):
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+    from matplotlib.colors import LogNorm
+    import numpy as np
+    import os
+
+    jeu_config = {
+        "Loto": 49,
+        "Euromillions": 50,
+        "Eurodreams": 40,
+        "Keno": 70,
+        "Amigo": 28,
+    }
+
+    taille_max = jeu_config.get(jeu, 50)
+
     def build_matrix(cols, size):
         mat = np.zeros((size, size), dtype=int)
         for _, row in df[cols].iterrows():
@@ -138,17 +154,37 @@ def generer_heatmaps(df, boules_cols, chance_col, jeu):
                             continue
         return mat
 
+    mat_b = build_matrix(boules_cols, taille_max)
+
+    cmap = "coolwarm"
     os.makedirs("static/heatmaps", exist_ok=True)
     heatmap_boules = f"static/heatmaps/{jeu.lower()}_boules.png"
 
-    mat_b = build_matrix(boules_cols, 50)
+    # 🔥 Meilleur contraste + suppression annot inutiles
+    show_numbers = taille_max <= 30 and np.max(mat_b) < 1000
+
     plt.figure(figsize=(10, 8))
-    sns.heatmap(mat_b, cmap="coolwarm")
-    plt.title("Heatmap Boules")
+    sns.heatmap(
+        mat_b,
+        cmap=cmap,
+        xticklabels=range(1, taille_max + 1),
+        yticklabels=range(1, taille_max + 1),
+        square=True,
+        annot=show_numbers,
+        fmt="d",
+        cbar=True,
+        linewidths=0.1,
+        linecolor="gray",
+        norm=LogNorm(vmin=1, vmax=np.max(mat_b))
+    )
+    plt.title(f"Heatmap Boules - {jeu}")
+    plt.xlabel("Numéros")
+    plt.ylabel("Numéros")
+    plt.tight_layout()
     plt.savefig(heatmap_boules)
     plt.close()
 
-    return heatmap_boules, ""  # ✅ heatmap_chances supprimée
+    return heatmap_boules, ""
 
 # --- Tirages simulés ---
 def generer_tirages(freq_boules, freq_chance, nom_jeu, mode="hot"):

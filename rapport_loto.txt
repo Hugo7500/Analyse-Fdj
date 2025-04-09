@@ -1,175 +1,543 @@
 📊 RAPPORT STATISTIQUE
-Période : 2019-02-27 → 2019-11-02
+Période : 2019-11-06 → 2025-03-17
 ------------------------------------------------------------
 
 🎯 TOP FRÉQUENCES
-1. Numéro 13 → 18 fois
-2. Numéro 38 → 16 fois
-3. Numéro 18 → 15 fois
-4. Numéro 2 → 15 fois
-5. Numéro 35 → 15 fois
-6. Numéro 42 → 14 fois
-7. Numéro 4 → 14 fois
-8. Numéro 47 → 13 fois
-9. Numéro 44 → 13 fois
-10. Numéro 24 → 13 fois
-11. Numéro 27 → 13 fois
-12. Numéro 33 → 13 fois
-13. Numéro 25 → 13 fois
-14. Numéro 26 → 13 fois
-15. Numéro 19 → 13 fois
-16. Numéro 45 → 13 fois
-17. Numéro 16 → 13 fois
-18. Numéro 31 → 12 fois
-19. Numéro 17 → 12 fois
-20. Numéro 15 → 12 fois
-21. Numéro 3 → 12 fois
-22. Numéro 46 → 12 fois
-23. Numéro 1 → 12 fois
-24. Numéro 14 → 11 fois
-25. Numéro 29 → 11 fois
-26. Numéro 32 → 11 fois
-27. Numéro 23 → 11 fois
-28. Numéro 28 → 11 fois
-29. Numéro 5 → 10 fois
-30. Numéro 20 → 10 fois
-31. Numéro 36 → 10 fois
-32. Numéro 6 → 9 fois
-33. Numéro 37 → 9 fois
-34. Numéro 10 → 9 fois
-35. Numéro 30 → 9 fois
-36. Numéro 21 → 9 fois
-37. Numéro 48 → 9 fois
-38. Numéro 7 → 9 fois
-39. Numéro 41 → 8 fois
-40. Numéro 12 → 8 fois
-41. Numéro 40 → 8 fois
-42. Numéro 49 → 8 fois
-43. Numéro 39 → 7 fois
-44. Numéro 34 → 7 fois
-45. Numéro 11 → 7 fois
-46. Numéro 9 → 7 fois
-47. Numéro 43 → 6 fois
-48. Numéro 8 → 6 fois
-49. Numéro 22 → 6 fois
+1. Numéro 6 → 102 fois
+2. Numéro 15 → 100 fois
+3. Numéro 31 → 100 fois
+4. Numéro 28 → 99 fois
+5. Numéro 7 → 97 fois
+6. Numéro 24 → 97 fois
+7. Numéro 26 → 96 fois
+8. Numéro 22 → 96 fois
+9. Numéro 35 → 93 fois
+10. Numéro 46 → 92 fois
+11. Numéro 44 → 92 fois
+12. Numéro 30 → 92 fois
+13. Numéro 12 → 91 fois
+14. Numéro 42 → 91 fois
+15. Numéro 3 → 91 fois
+16. Numéro 13 → 90 fois
+17. Numéro 9 → 89 fois
+18. Numéro 38 → 89 fois
+19. Numéro 48 → 88 fois
+20. Numéro 5 → 88 fois
+21. Numéro 17 → 88 fois
+22. Numéro 8 → 87 fois
+23. Numéro 41 → 87 fois
+24. Numéro 47 → 87 fois
+25. Numéro 34 → 85 fois
+26. Numéro 19 → 84 fois
+27. Numéro 49 → 84 fois
+28. Numéro 40 → 83 fois
+29. Numéro 27 → 83 fois
+30. Numéro 32 → 83 fois
+31. Numéro 4 → 82 fois
+32. Numéro 21 → 82 fois
+33. Numéro 37 → 81 fois
+34. Numéro 29 → 81 fois
+35. Numéro 10 → 80 fois
+36. Numéro 25 → 80 fois
+37. Numéro 39 → 80 fois
+38. Numéro 11 → 80 fois
+39. Numéro 20 → 79 fois
+40. Numéro 45 → 79 fois
+41. Numéro 23 → 79 fois
+42. Numéro 36 → 78 fois
+43. Numéro 16 → 78 fois
+44. Numéro 1 → 75 fois
+45. Numéro 2 → 74 fois
+46. Numéro 43 → 73 fois
+47. Numéro 14 → 73 fois
+48. Numéro 33 → 72 fois
+49. Numéro 18 → 70 fois
 
 🎲 Chances :
-1. Chance 3 → 18 fois
-2. Chance 2 → 14 fois
-3. Chance 5 → 12 fois
-4. Chance 10 → 12 fois
-5. Chance 1 → 10 fois
-6. Chance 4 → 10 fois
-7. Chance 9 → 10 fois
-8. Chance 8 → 10 fois
-9. Chance 6 → 8 fois
-10. Chance 7 → 3 fois
+1. Chance 9 → 97 fois
+2. Chance 2 → 93 fois
+3. Chance 7 → 89 fois
+4. Chance 10 → 88 fois
+5. Chance 8 → 84 fois
+6. Chance 5 → 81 fois
+7. Chance 4 → 80 fois
+8. Chance 1 → 79 fois
+9. Chance 6 → 77 fois
+10. Chance 3 → 72 fois
 
 📆 PAR ANNÉE
 
 Année 2019 :
-1. Numéro 13 → 18 fois
-2. Numéro 38 → 16 fois
-3. Numéro 18 → 15 fois
-4. Numéro 2 → 15 fois
-5. Numéro 35 → 15 fois
-6. Numéro 42 → 14 fois
-7. Numéro 4 → 14 fois
-8. Numéro 47 → 13 fois
-9. Numéro 44 → 13 fois
-10. Numéro 24 → 13 fois
-11. Numéro 27 → 13 fois
-12. Numéro 33 → 13 fois
-13. Numéro 25 → 13 fois
-14. Numéro 26 → 13 fois
-15. Numéro 19 → 13 fois
-16. Numéro 45 → 13 fois
-17. Numéro 16 → 13 fois
-18. Numéro 31 → 12 fois
-19. Numéro 17 → 12 fois
-20. Numéro 15 → 12 fois
-21. Numéro 3 → 12 fois
-22. Numéro 46 → 12 fois
-23. Numéro 1 → 12 fois
-24. Numéro 14 → 11 fois
-25. Numéro 29 → 11 fois
-26. Numéro 32 → 11 fois
-27. Numéro 23 → 11 fois
-28. Numéro 28 → 11 fois
-29. Numéro 5 → 10 fois
-30. Numéro 20 → 10 fois
-31. Numéro 36 → 10 fois
-32. Numéro 6 → 9 fois
-33. Numéro 37 → 9 fois
-34. Numéro 10 → 9 fois
-35. Numéro 30 → 9 fois
-36. Numéro 21 → 9 fois
-37. Numéro 48 → 9 fois
-38. Numéro 7 → 9 fois
-39. Numéro 41 → 8 fois
-40. Numéro 12 → 8 fois
-41. Numéro 40 → 8 fois
-42. Numéro 49 → 8 fois
-43. Numéro 39 → 7 fois
-44. Numéro 34 → 7 fois
-45. Numéro 11 → 7 fois
-46. Numéro 9 → 7 fois
-47. Numéro 43 → 6 fois
-48. Numéro 8 → 6 fois
-49. Numéro 22 → 6 fois
+1. Numéro 48 → 6 fois
+2. Numéro 44 → 5 fois
+3. Numéro 38 → 5 fois
+4. Numéro 10 → 4 fois
+5. Numéro 7 → 4 fois
+6. Numéro 27 → 4 fois
+7. Numéro 23 → 4 fois
+8. Numéro 24 → 4 fois
+9. Numéro 29 → 4 fois
+10. Numéro 25 → 4 fois
+11. Numéro 22 → 4 fois
+12. Numéro 40 → 4 fois
+13. Numéro 35 → 4 fois
+14. Numéro 15 → 4 fois
+15. Numéro 12 → 3 fois
+16. Numéro 17 → 3 fois
+17. Numéro 30 → 3 fois
+18. Numéro 28 → 3 fois
+19. Numéro 6 → 3 fois
+20. Numéro 26 → 3 fois
+21. Numéro 18 → 3 fois
+22. Numéro 19 → 2 fois
+23. Numéro 33 → 2 fois
+24. Numéro 13 → 2 fois
+25. Numéro 42 → 2 fois
+26. Numéro 14 → 2 fois
+27. Numéro 34 → 2 fois
+28. Numéro 32 → 2 fois
+29. Numéro 1 → 2 fois
+30. Numéro 49 → 2 fois
+31. Numéro 8 → 2 fois
+32. Numéro 4 → 2 fois
+33. Numéro 36 → 2 fois
+34. Numéro 39 → 2 fois
+35. Numéro 37 → 2 fois
+36. Numéro 3 → 1 fois
+37. Numéro 20 → 1 fois
+38. Numéro 45 → 1 fois
+39. Numéro 11 → 1 fois
+40. Numéro 16 → 1 fois
+41. Numéro 2 → 1 fois
+42. Numéro 41 → 1 fois
+43. Numéro 9 → 1 fois
+44. Numéro 31 → 1 fois
+45. Numéro 5 → 1 fois
+46. Numéro 43 → 1 fois
 Chances :
-1. Chance 3 → 18 fois
-2. Chance 2 → 14 fois
-3. Chance 5 → 12 fois
-4. Chance 10 → 12 fois
-5. Chance 1 → 10 fois
-6. Chance 4 → 10 fois
-7. Chance 9 → 10 fois
-8. Chance 8 → 10 fois
-9. Chance 6 → 8 fois
-10. Chance 7 → 3 fois
+1. Chance 8 → 5 fois
+2. Chance 9 → 5 fois
+3. Chance 2 → 3 fois
+4. Chance 3 → 3 fois
+5. Chance 6 → 2 fois
+6. Chance 4 → 2 fois
+7. Chance 7 → 1 fois
+8. Chance 1 → 1 fois
+9. Chance 5 → 1 fois
+10. Chance 10 → 1 fois
+
+Année 2020 :
+1. Numéro 26 → 24 fois
+2. Numéro 5 → 23 fois
+3. Numéro 42 → 23 fois
+4. Numéro 31 → 21 fois
+5. Numéro 48 → 21 fois
+6. Numéro 35 → 21 fois
+7. Numéro 9 → 20 fois
+8. Numéro 14 → 20 fois
+9. Numéro 17 → 20 fois
+10. Numéro 30 → 20 fois
+11. Numéro 28 → 19 fois
+12. Numéro 47 → 19 fois
+13. Numéro 6 → 18 fois
+14. Numéro 7 → 18 fois
+15. Numéro 22 → 18 fois
+16. Numéro 19 → 18 fois
+17. Numéro 23 → 18 fois
+18. Numéro 16 → 17 fois
+19. Numéro 24 → 17 fois
+20. Numéro 46 → 17 fois
+21. Numéro 33 → 17 fois
+22. Numéro 41 → 17 fois
+23. Numéro 38 → 17 fois
+24. Numéro 49 → 16 fois
+25. Numéro 39 → 16 fois
+26. Numéro 29 → 15 fois
+27. Numéro 44 → 15 fois
+28. Numéro 4 → 15 fois
+29. Numéro 10 → 15 fois
+30. Numéro 2 → 15 fois
+31. Numéro 11 → 15 fois
+32. Numéro 45 → 15 fois
+33. Numéro 43 → 14 fois
+34. Numéro 25 → 14 fois
+35. Numéro 32 → 14 fois
+36. Numéro 20 → 14 fois
+37. Numéro 21 → 14 fois
+38. Numéro 13 → 14 fois
+39. Numéro 15 → 13 fois
+40. Numéro 12 → 13 fois
+41. Numéro 37 → 12 fois
+42. Numéro 40 → 12 fois
+43. Numéro 36 → 12 fois
+44. Numéro 1 → 11 fois
+45. Numéro 8 → 11 fois
+46. Numéro 3 → 10 fois
+47. Numéro 27 → 9 fois
+48. Numéro 18 → 9 fois
+49. Numéro 34 → 9 fois
+Chances :
+1. Chance 9 → 20 fois
+2. Chance 7 → 19 fois
+3. Chance 5 → 18 fois
+4. Chance 4 → 18 fois
+5. Chance 1 → 17 fois
+6. Chance 3 → 15 fois
+7. Chance 2 → 15 fois
+8. Chance 6 → 13 fois
+9. Chance 8 → 13 fois
+10. Chance 10 → 9 fois
+
+Année 2021 :
+1. Numéro 44 → 23 fois
+2. Numéro 41 → 22 fois
+3. Numéro 31 → 22 fois
+4. Numéro 8 → 21 fois
+5. Numéro 3 → 21 fois
+6. Numéro 19 → 21 fois
+7. Numéro 22 → 21 fois
+8. Numéro 27 → 19 fois
+9. Numéro 7 → 19 fois
+10. Numéro 37 → 19 fois
+11. Numéro 11 → 18 fois
+12. Numéro 38 → 18 fois
+13. Numéro 47 → 18 fois
+14. Numéro 24 → 18 fois
+15. Numéro 13 → 18 fois
+16. Numéro 46 → 18 fois
+17. Numéro 15 → 18 fois
+18. Numéro 12 → 18 fois
+19. Numéro 6 → 18 fois
+20. Numéro 9 → 18 fois
+21. Numéro 34 → 18 fois
+22. Numéro 18 → 17 fois
+23. Numéro 42 → 17 fois
+24. Numéro 17 → 17 fois
+25. Numéro 21 → 17 fois
+26. Numéro 36 → 17 fois
+27. Numéro 49 → 17 fois
+28. Numéro 26 → 16 fois
+29. Numéro 5 → 15 fois
+30. Numéro 4 → 15 fois
+31. Numéro 43 → 14 fois
+32. Numéro 28 → 14 fois
+33. Numéro 48 → 14 fois
+34. Numéro 29 → 14 fois
+35. Numéro 35 → 14 fois
+36. Numéro 32 → 13 fois
+37. Numéro 2 → 13 fois
+38. Numéro 25 → 13 fois
+39. Numéro 16 → 12 fois
+40. Numéro 30 → 12 fois
+41. Numéro 40 → 12 fois
+42. Numéro 45 → 12 fois
+43. Numéro 20 → 11 fois
+44. Numéro 33 → 11 fois
+45. Numéro 10 → 11 fois
+46. Numéro 1 → 10 fois
+47. Numéro 23 → 9 fois
+48. Numéro 39 → 9 fois
+49. Numéro 14 → 8 fois
+Chances :
+1. Chance 10 → 21 fois
+2. Chance 9 → 20 fois
+3. Chance 6 → 20 fois
+4. Chance 8 → 17 fois
+5. Chance 1 → 16 fois
+6. Chance 4 → 14 fois
+7. Chance 2 → 13 fois
+8. Chance 3 → 13 fois
+9. Chance 7 → 11 fois
+10. Chance 5 → 11 fois
+
+Année 2022 :
+1. Numéro 46 → 23 fois
+2. Numéro 23 → 22 fois
+3. Numéro 38 → 22 fois
+4. Numéro 22 → 21 fois
+5. Numéro 32 → 21 fois
+6. Numéro 15 → 20 fois
+7. Numéro 4 → 20 fois
+8. Numéro 24 → 19 fois
+9. Numéro 40 → 19 fois
+10. Numéro 39 → 19 fois
+11. Numéro 44 → 19 fois
+12. Numéro 26 → 19 fois
+13. Numéro 37 → 18 fois
+14. Numéro 7 → 18 fois
+15. Numéro 31 → 17 fois
+16. Numéro 21 → 17 fois
+17. Numéro 27 → 17 fois
+18. Numéro 20 → 17 fois
+19. Numéro 35 → 17 fois
+20. Numéro 10 → 17 fois
+21. Numéro 45 → 17 fois
+22. Numéro 6 → 17 fois
+23. Numéro 29 → 17 fois
+24. Numéro 33 → 17 fois
+25. Numéro 12 → 17 fois
+26. Numéro 17 → 16 fois
+27. Numéro 14 → 16 fois
+28. Numéro 47 → 16 fois
+29. Numéro 36 → 15 fois
+30. Numéro 49 → 15 fois
+31. Numéro 1 → 15 fois
+32. Numéro 5 → 15 fois
+33. Numéro 30 → 15 fois
+34. Numéro 28 → 15 fois
+35. Numéro 34 → 15 fois
+36. Numéro 9 → 14 fois
+37. Numéro 8 → 14 fois
+38. Numéro 41 → 14 fois
+39. Numéro 2 → 14 fois
+40. Numéro 25 → 13 fois
+41. Numéro 43 → 13 fois
+42. Numéro 13 → 13 fois
+43. Numéro 48 → 12 fois
+44. Numéro 3 → 12 fois
+45. Numéro 11 → 12 fois
+46. Numéro 16 → 12 fois
+47. Numéro 42 → 9 fois
+48. Numéro 18 → 8 fois
+49. Numéro 19 → 5 fois
+Chances :
+1. Chance 10 → 22 fois
+2. Chance 7 → 19 fois
+3. Chance 2 → 17 fois
+4. Chance 5 → 17 fois
+5. Chance 4 → 16 fois
+6. Chance 9 → 15 fois
+7. Chance 3 → 14 fois
+8. Chance 1 → 13 fois
+9. Chance 8 → 12 fois
+10. Chance 6 → 12 fois
+
+Année 2023 :
+1. Numéro 3 → 24 fois
+2. Numéro 12 → 23 fois
+3. Numéro 15 → 22 fois
+4. Numéro 35 → 21 fois
+5. Numéro 1 → 20 fois
+6. Numéro 34 → 20 fois
+7. Numéro 13 → 20 fois
+8. Numéro 30 → 19 fois
+9. Numéro 28 → 19 fois
+10. Numéro 31 → 18 fois
+11. Numéro 19 → 18 fois
+12. Numéro 9 → 18 fois
+13. Numéro 16 → 18 fois
+14. Numéro 7 → 18 fois
+15. Numéro 41 → 17 fois
+16. Numéro 40 → 17 fois
+17. Numéro 48 → 17 fois
+18. Numéro 25 → 17 fois
+19. Numéro 18 → 17 fois
+20. Numéro 11 → 17 fois
+21. Numéro 45 → 16 fois
+22. Numéro 10 → 16 fois
+23. Numéro 42 → 16 fois
+24. Numéro 32 → 16 fois
+25. Numéro 44 → 16 fois
+26. Numéro 5 → 15 fois
+27. Numéro 49 → 15 fois
+28. Numéro 26 → 15 fois
+29. Numéro 14 → 15 fois
+30. Numéro 8 → 15 fois
+31. Numéro 22 → 14 fois
+32. Numéro 24 → 14 fois
+33. Numéro 20 → 14 fois
+34. Numéro 17 → 14 fois
+35. Numéro 47 → 14 fois
+36. Numéro 27 → 14 fois
+37. Numéro 46 → 14 fois
+38. Numéro 6 → 13 fois
+39. Numéro 37 → 13 fois
+40. Numéro 21 → 13 fois
+41. Numéro 43 → 13 fois
+42. Numéro 39 → 13 fois
+43. Numéro 29 → 13 fois
+44. Numéro 33 → 13 fois
+45. Numéro 4 → 12 fois
+46. Numéro 38 → 12 fois
+47. Numéro 2 → 11 fois
+48. Numéro 36 → 11 fois
+49. Numéro 23 → 10 fois
+Chances :
+1. Chance 10 → 24 fois
+2. Chance 9 → 20 fois
+3. Chance 2 → 17 fois
+4. Chance 4 → 16 fois
+5. Chance 1 → 15 fois
+6. Chance 7 → 14 fois
+7. Chance 5 → 14 fois
+8. Chance 6 → 13 fois
+9. Chance 8 → 12 fois
+10. Chance 3 → 11 fois
+
+Année 2024 :
+1. Numéro 6 → 28 fois
+2. Numéro 15 → 21 fois
+3. Numéro 28 → 21 fois
+4. Numéro 8 → 20 fois
+5. Numéro 13 → 19 fois
+6. Numéro 42 → 19 fois
+7. Numéro 24 → 19 fois
+8. Numéro 30 → 19 fois
+9. Numéro 47 → 19 fois
+10. Numéro 46 → 18 fois
+11. Numéro 20 → 18 fois
+12. Numéro 7 → 18 fois
+13. Numéro 31 → 18 fois
+14. Numéro 34 → 18 fois
+15. Numéro 21 → 18 fois
+16. Numéro 36 → 18 fois
+17. Numéro 39 → 17 fois
+18. Numéro 2 → 17 fois
+19. Numéro 3 → 17 fois
+20. Numéro 49 → 17 fois
+21. Numéro 25 → 17 fois
+22. Numéro 22 → 17 fois
+23. Numéro 43 → 17 fois
+24. Numéro 45 → 17 fois
+25. Numéro 4 → 16 fois
+26. Numéro 12 → 16 fois
+27. Numéro 19 → 16 fois
+28. Numéro 5 → 16 fois
+29. Numéro 27 → 16 fois
+30. Numéro 37 → 16 fois
+31. Numéro 40 → 15 fois
+32. Numéro 35 → 15 fois
+33. Numéro 18 → 15 fois
+34. Numéro 17 → 15 fois
+35. Numéro 9 → 15 fois
+36. Numéro 48 → 15 fois
+37. Numéro 26 → 15 fois
+38. Numéro 10 → 14 fois
+39. Numéro 1 → 14 fois
+40. Numéro 16 → 14 fois
+41. Numéro 38 → 12 fois
+42. Numéro 32 → 12 fois
+43. Numéro 29 → 12 fois
+44. Numéro 11 → 11 fois
+45. Numéro 23 → 11 fois
+46. Numéro 41 → 11 fois
+47. Numéro 33 → 10 fois
+48. Numéro 14 → 8 fois
+49. Numéro 44 → 8 fois
+Chances :
+1. Chance 2 → 22 fois
+2. Chance 8 → 21 fois
+3. Chance 7 → 19 fois
+4. Chance 5 → 16 fois
+5. Chance 6 → 15 fois
+6. Chance 1 → 15 fois
+7. Chance 3 → 14 fois
+8. Chance 9 → 13 fois
+9. Chance 10 → 11 fois
+10. Chance 4 → 11 fois
+
+Année 2025 :
+1. Numéro 28 → 8 fois
+2. Numéro 3 → 6 fois
+3. Numéro 29 → 6 fois
+4. Numéro 44 → 6 fois
+5. Numéro 24 → 6 fois
+6. Numéro 11 → 6 fois
+7. Numéro 41 → 5 fois
+8. Numéro 42 → 5 fois
+9. Numéro 6 → 5 fois
+10. Numéro 32 → 5 fois
+11. Numéro 23 → 5 fois
+12. Numéro 19 → 4 fois
+13. Numéro 8 → 4 fois
+14. Numéro 14 → 4 fois
+15. Numéro 30 → 4 fois
+16. Numéro 16 → 4 fois
+17. Numéro 27 → 4 fois
+18. Numéro 39 → 4 fois
+19. Numéro 26 → 4 fois
+20. Numéro 13 → 4 fois
+21. Numéro 40 → 4 fois
+22. Numéro 20 → 4 fois
+23. Numéro 36 → 3 fois
+24. Numéro 1 → 3 fois
+25. Numéro 48 → 3 fois
+26. Numéro 34 → 3 fois
+27. Numéro 2 → 3 fois
+28. Numéro 5 → 3 fois
+29. Numéro 17 → 3 fois
+30. Numéro 38 → 3 fois
+31. Numéro 31 → 3 fois
+32. Numéro 21 → 3 fois
+33. Numéro 10 → 3 fois
+34. Numéro 9 → 3 fois
+35. Numéro 33 → 2 fois
+36. Numéro 46 → 2 fois
+37. Numéro 25 → 2 fois
+38. Numéro 4 → 2 fois
+39. Numéro 7 → 2 fois
+40. Numéro 49 → 2 fois
+41. Numéro 15 → 2 fois
+42. Numéro 35 → 1 fois
+43. Numéro 45 → 1 fois
+44. Numéro 18 → 1 fois
+45. Numéro 43 → 1 fois
+46. Numéro 12 → 1 fois
+47. Numéro 37 → 1 fois
+48. Numéro 47 → 1 fois
+49. Numéro 22 → 1 fois
+Chances :
+1. Chance 7 → 6 fois
+2. Chance 2 → 6 fois
+3. Chance 9 → 4 fois
+4. Chance 5 → 4 fois
+5. Chance 8 → 4 fois
+6. Chance 4 → 3 fois
+7. Chance 1 → 2 fois
+8. Chance 6 → 2 fois
+9. Chance 3 → 2 fois
 
 📊 CLUSTERING
-Cluster 1 : 1, 3, 4, 15, 16, 17, 19, 24, 25, 26, 27, 31, 33, 42, 44, 45, 46, 47
-Cluster 2 : 6, 7, 10, 12, 21, 30, 37, 40, 41, 48, 49
-Cluster 3 : 2, 13, 18, 35, 38
-Cluster 4 : 5, 14, 20, 23, 28, 29, 32, 36
-Cluster 5 : 8, 9, 11, 22, 34, 39, 43
+Cluster 1 : 1, 2, 14, 18, 33, 43
+Cluster 2 : 6, 7, 15, 22, 24, 26, 28, 31
+Cluster 3 : 4, 19, 21, 27, 32, 34, 40, 49
+Cluster 4 : 3, 5, 8, 9, 12, 13, 17, 30, 35, 38, 41, 42, 44, 46, 47, 48
+Cluster 5 : 10, 11, 16, 20, 23, 25, 29, 36, 37, 39, 45
 
 🔥 TIRAGES SIMULÉS
 
 HOT:
-Main: [2, 13, 27, 38, 47] | Chances: [3]
-Main: [2, 4, 13, 24, 42] | Chances: [5]
-Main: [4, 18, 25, 27, 38] | Chances: [5]
-Main: [4, 19, 27, 38, 44] | Chances: [5]
-Main: [4, 19, 24, 35, 44] | Chances: [10]
-Main: [18, 19, 26, 27, 33] | Chances: [2]
-Main: [2, 18, 24, 35, 42] | Chances: [1]
-Main: [19, 24, 27, 42, 44] | Chances: [2]
-Main: [4, 18, 24, 27, 33] | Chances: [5]
-Main: [2, 4, 13, 18, 35] | Chances: [5]
+Main: [3, 6, 26, 31, 42] | Chances: [2]
+Main: [24, 26, 30, 31, 46] | Chances: [9]
+Main: [6, 24, 26, 42, 44] | Chances: [8]
+Main: [15, 28, 31, 42, 46] | Chances: [8]
+Main: [7, 22, 31, 42, 46] | Chances: [10]
+Main: [7, 12, 24, 30, 44] | Chances: [8]
+Main: [3, 15, 22, 31, 46] | Chances: [10]
+Main: [6, 15, 24, 42, 46] | Chances: [8]
+Main: [3, 22, 30, 31, 42] | Chances: [10]
+Main: [22, 24, 26, 31, 42] | Chances: [8]
 
 COLD:
-Main: [9, 30, 37, 39, 40] | Chances: [1]
-Main: [8, 30, 34, 37, 41] | Chances: [5]
-Main: [6, 22, 34, 37, 40] | Chances: [2]
-Main: [12, 22, 30, 34, 43] | Chances: [5]
-Main: [6, 9, 10, 22, 34] | Chances: [5]
-Main: [6, 8, 9, 30, 39] | Chances: [2]
-Main: [9, 10, 37, 41, 43] | Chances: [5]
-Main: [6, 9, 30, 41, 49] | Chances: [1]
-Main: [9, 10, 12, 40, 43] | Chances: [3]
-Main: [8, 9, 11, 37, 40] | Chances: [5]
+Main: [10, 11, 16, 23, 25] | Chances: [8]
+Main: [11, 14, 20, 33, 43] | Chances: [10]
+Main: [1, 10, 11, 43, 45] | Chances: [8]
+Main: [2, 10, 23, 25, 39] | Chances: [8]
+Main: [2, 16, 20, 23, 36] | Chances: [2]
+Main: [10, 11, 20, 36, 45] | Chances: [8]
+Main: [2, 10, 11, 23, 39] | Chances: [10]
+Main: [1, 18, 33, 43, 45] | Chances: [7]
+Main: [16, 23, 36, 39, 45] | Chances: [10]
+Main: [10, 14, 23, 25, 39] | Chances: [7]
 
 MIX:
-Main: [8, 22, 35, 38, 43] | Chances: [3]
-Main: [18, 22, 34, 35, 43] | Chances: [3]
-Main: [2, 13, 18, 34, 38] | Chances: [5]
-Main: [8, 13, 22, 38, 39] | Chances: [10]
-Main: [2, 8, 35, 38, 43] | Chances: [1]
-Main: [2, 8, 18, 34, 39] | Chances: [3]
-Main: [2, 13, 22, 34, 38] | Chances: [10]
-Main: [2, 13, 18, 38, 39] | Chances: [1]
-Main: [34, 35, 38, 39, 43] | Chances: [1]
-Main: [2, 13, 35, 38, 43] | Chances: [3]
+Main: [6, 18, 28, 33, 43] | Chances: [7]
+Main: [2, 18, 28, 31, 33] | Chances: [2]
+Main: [6, 7, 18, 33, 43] | Chances: [2]
+Main: [2, 14, 18, 33, 43] | Chances: [8]
+Main: [2, 6, 14, 18, 28] | Chances: [2]
+Main: [6, 14, 18, 33, 43] | Chances: [8]
+Main: [2, 15, 18, 28, 31] | Chances: [10]
+Main: [2, 7, 14, 31, 43] | Chances: [10]
+Main: [7, 18, 28, 31, 33] | Chances: [7]
+Main: [2, 14, 15, 31, 33] | Chances: [9]
